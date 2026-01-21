@@ -43,7 +43,7 @@
 
 ## 🔗 Connect with Me :
 <p align="left">
-    <a href="https://www.linkedin.com/in/terksdev/">
+    <a href="https://www.linkedin.com/in/terksdev/](https://www.linkedin.com/in/ter-kean-sen-6a3189392/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp; <a href="mailto:huoyan0928@gmail.com">
