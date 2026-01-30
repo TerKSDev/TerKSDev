@@ -28,15 +28,15 @@
 
 ## ⌛ Wakatime Stats :
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TerKSDev&layout=compact&theme=tokyonight&hide_border=true" alt="TerKSDev's WakaTime Stats" />
+    <img src="https://github-readme-stats-tawny-sigma-62.vercel.app/api/wakatime?username=TerKSDev&layout=compact&theme=tokyonight&hide_border=true" alt="TerKSDev's WakaTime Stats" />
 </p>
 
 
 
 ## 📊 GitHub Stats :
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TerKSDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerKSDev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-tawny-sigma-62.vercel.app/api?username=TerKSDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  &nbsp; <img src="https://github-readme-stats-tawny-sigma-62.vercel.app/api/top-langs/?username=TerKSDev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
