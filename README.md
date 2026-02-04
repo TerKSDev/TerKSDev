@@ -41,6 +41,14 @@
 
 
 
+## 📃 Current Projects
+| Project Name | Description |
+|----------|-------------|
+| Game Portal | A full-stack game marketplace built with Next.js, Prisma, and TypeScript featuring user authentication, shopping cart, and payment integration |
+| Proposal | Personal portfolio and resume website showcasing my projects, skills, and professional experience |
+
+
+
 ## 🔗 Connect with Me :
 <p align="left">
     <a href="https://www.linkedin.com/in/ter-kean-sen-6a3189392">
