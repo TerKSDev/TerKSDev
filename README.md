@@ -42,10 +42,12 @@
 
 
 ## 📃 Current Projects
-| Project Name | Description |
-|----------|-------------|
-| Game Portal | A full-stack game marketplace built with Next.js, Prisma, and TypeScript featuring user authentication, shopping cart, and payment integration |
-| Proposal | Personal portfolio and resume website showcasing my projects, skills, and professional experience |
+| Project Name | Description | Status |
+|--------------|-------------|--------|
+| Game Portal | A full-stack game marketplace built with Next.js, Prisma, and TypeScript featuring user authentication, shopping cart, and payment integration | Idle |
+| Proposal | Personal portfolio and resume website showcasing my projects, skills, and professional experience | Upcoming |
+| Techne. | An online teaching platform to help users find the starting point for their learning | In Progress |
+
 
 
 
