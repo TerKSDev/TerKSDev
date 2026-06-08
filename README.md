@@ -3,10 +3,9 @@
 
 
 ## ✨ About Me :
-- 🌏 I'm a **Full-Stack Developer** based in **Malaysia**
-- 💼 Currently working at **QuadraWebs**.
-- 🔭 Currently deep diving into **Next.js**
-- ⚡ **Fun Fact:** Next.js is really interesting!
+- 🌏 I'm a **Full-Stack Developer** based in **Malaysia**.
+- 💼 Currently looking for a job.
+- 🔭 Currently deep diving into **Next.js**.
 - 📃 For more detailed information, please visit my portfolio website: <a href="https://terks-dev-hub.vercel.app">TerKS-Dev-Hub</a>
 
 
@@ -45,8 +44,7 @@
 ## 📃 Current Projects
 | Project Name | Description | Status |
 |--------------|-------------|--------|
-| Game Portal | A full-stack game marketplace built with Next.js, Prisma, and TypeScript featuring user authentication, shopping cart, and payment integration | Idle |
-| Techne. | An online teaching platform to help users find the starting point for their learning | In Progress |
+| DevOps | This is a project used to track the status of repositories on GitHub in real time. It mainly targets common functions such as push, PR, and Deployment, providing immediate feedback (success/failure) and sending notifications when failures occur. | In Progress |
 
 
 
