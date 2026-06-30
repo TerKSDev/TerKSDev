@@ -3,9 +3,9 @@
 
 
 ## ✨ About Me :
-- 🌏 I'm a **Full-Stack Developer** based in **Malaysia**.
-- 💼 Currently looking for a job.
-- 🔭 Currently deep diving into **Next.js**.
+- 🌏 I'm a **Junior Full-Stack Developer** based in **Malaysia**.
+- 🏫 Currently continue studying **Bachelor'Degree**.
+- 🔭 Currently deep diving into **Next.js** and **TypeScript**.
 - 📃 For more detailed information, please visit my portfolio website: <a href="https://terks-dev-hub.vercel.app">TerKS-Dev-Hub</a>
 
 
