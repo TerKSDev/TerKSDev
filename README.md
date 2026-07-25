@@ -45,6 +45,8 @@
 | Project Name | Description | Status |
 |--------------|-------------|--------|
 | DevOps | This is a project used to track the status of repositories on GitHub in real time. It mainly targets common functions such as push, PR, and Deployment, providing immediate feedback (success/failure) and sending notifications when failures occur. | In Progress |
+| AI Governance Platform (Unnamed) | This project enables AI to read uploaded files and automatically detect whether they meet the seven domain standards of COPPA, which is certified by the Malaysian MQA. | In Progress |
+| NanoDB | This project is a TUI Database Client, which will be released on Node Package Manager (npm), so it is completely free and allows you to view, add, or update database information and entities without downloading any software. | Planing |
 
 
 
